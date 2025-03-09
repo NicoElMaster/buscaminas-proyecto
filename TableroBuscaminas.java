@@ -5,7 +5,7 @@ import java.util.function.Consumer;
 
 /**
  *
- * @author BELSOFT
+ * @author Nicolas - Daniel - Sebastian
  */
 public class TableroBuscaminas {
 
