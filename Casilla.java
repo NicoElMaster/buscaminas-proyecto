@@ -1,6 +1,6 @@
 /**
  *
- * @author BELSOFT
+ * @author Nicolas - Daniel - Sebastián
  */
 public class Casilla {
     private int posFila;
